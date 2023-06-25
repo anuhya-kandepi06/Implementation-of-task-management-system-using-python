@@ -1,3 +1,4 @@
+'''A Task Management System using python which gives user an option to view all tasks on portal,view tasks created by them.It also give user option to create,edit and delete tasks on basis of ownership'''
 # Implementation-of-task-management-system-using-python
 # -*- coding: utf-8 -*-
 """Implementation of task management system using python.ipynb
